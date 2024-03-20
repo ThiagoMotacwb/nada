@@ -1,5 +1,5 @@
-import VideoComponent from "../bts/btvd";
-import Funfaa from "../homes/header";
+import VideoComponent from "../components/bts/btvd";
+import Funfaa from "../components/homes/header";
 
 const App = () => {
   return (
