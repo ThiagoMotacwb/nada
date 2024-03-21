@@ -4,9 +4,9 @@ const Funfaa = () => {
   return (
     <div  style={{
         backgroundColor: 'green', display: 'flex',
-        alignItems: 'center', width: '60vh'
+        alignItems: 'center', width: '214vh' 
       }}>
-      <h1>Hello world</h1>
+      <h1>robsonfy</h1>
     </div>
   );
 };

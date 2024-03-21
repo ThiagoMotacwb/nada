@@ -13,7 +13,7 @@ const VideoComponent = () => {
     'https://www.youtube.com/watch?v=jA5XX7Fd8Ys',
     'https://www.youtube.com/watch?v=cJx0k_ln1-g',
     'https://www.youtube.com/watch?v=elIl48sZ3rA',
-    'https://www.youtube.com/watch?v=cJx0k_ln1-g'
+    'https://youtu.be/7ApK93G2kSI?si=1N1ylFvGjLV4fPxr'
   ];
 
  
