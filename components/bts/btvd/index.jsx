@@ -29,7 +29,7 @@ const VideoComponent = () => {
   const chunkedLinks = chunkArray(links, 4);
 
   return (
-    <div  width={[300, 400, 500, 500, 500]}>
+    <div  width={[600]}>
       {chunkedLinks.map((chunk, rowIndex) => (
         <div key={rowIndex} style={{ display: 'flex', marginBottom: '20px' }}>
           {chunk.map((link, index) => (
